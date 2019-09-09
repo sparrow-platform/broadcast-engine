@@ -35,3 +35,5 @@ Your API should be accessible on cloud.
 * cipher_key.txt(add a cipher text)
 * service.json(Firebase config json)
 
+
+Based of ConnectUS platform repo (https://github.com/JayLohokare/connectUS)
