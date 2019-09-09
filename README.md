@@ -1,4 +1,4 @@
-## Global Hack 7 Repository
+## Sparrow Platform - Broadcasting data to social media platforms
 
 
 ### Steps to Run
